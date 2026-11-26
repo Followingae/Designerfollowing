@@ -1,0 +1,19 @@
+# Illustrator masters over GitHub's 100 MB limit: kept on the studio machine only
+brands/following/final/Following_Brand_Guidelines.ai
+brands/following/final/Following_Print_Master.ai
+brands/following/social/Following_Instagram.ai
+brands/following/social/Following_Stories.ai
+brands/inflink/final/Inflink_Brand_Guidelines.ai
+brands/inflink/social/Inflink_Instagram.ai
+brands/inflink/social/Inflink_Stories.ai
+
+# local tooling and junk
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store

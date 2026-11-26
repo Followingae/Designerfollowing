@@ -1,0 +1,4 @@
+Note: A6 landscape, 148 x 105 mm, both sides, uncoated, no lamination (the cream side is written on).
+Envelope: plain black C6, 162 x 114 mm, no artwork.
+
+Print PDFs: 2.8 mm bleed, crop marks, fonts embedded. Material, finish and quantity are in Following_Print_Order.xlsx.

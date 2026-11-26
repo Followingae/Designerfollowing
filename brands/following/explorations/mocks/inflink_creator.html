@@ -1,0 +1,32 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;margin:0}
+  html,body{background:transparent}
+  body{width:900px;height:1120px;font-family:'Hanken Grotesk',system-ui,sans-serif;color:#131313;-webkit-font-smoothing:antialiased;position:relative}
+  .card{position:absolute;left:110px;top:60px;width:640px;background:#fff;border-radius:52px;padding:22px;box-shadow:0 60px 90px -50px rgba(30,20,10,.55)}
+  .hero{height:560px;border-radius:36px;background:url('file:///C:/Users/user/Desktop/NEWINFLINK/.design-handoff/mobile-v3/inflink-mobile-app/project/assets/lina-hero.png') center 12%/cover;position:relative;overflow:hidden}
+  .hero:after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(10,10,10,.78),transparent 52%)}
+  .who{position:absolute;left:30px;bottom:28px;color:#fff;z-index:2}
+  .name{font-size:62px;font-weight:700;letter-spacing:-.035em;line-height:1}
+  .chips{display:flex;gap:10px;margin-top:16px}
+  .chip{background:rgba(255,255,255,.2);font-size:22px;font-weight:700;padding:9px 20px;border-radius:999px}
+  .row{display:flex;justify-content:space-between;align-items:center;padding:30px 14px 28px;border-bottom:2px solid #F3F3F1}
+  .row:last-of-type{border-bottom:0}
+  .svc{font-size:34px;font-weight:600;letter-spacing:-.02em}
+  .price{font-size:40px;font-weight:800;letter-spacing:-.03em}
+  .btn{margin:8px 0 0;height:96px;border-radius:999px;background:#131313;color:#fff;font-size:32px;font-weight:700;display:flex;align-items:center;justify-content:center;letter-spacing:-.01em}
+  .tile{position:absolute;left:0;top:330px;background:#fff;border-radius:34px;padding:26px 32px;box-shadow:0 40px 60px -34px rgba(30,20,10,.6);z-index:3}
+  .tile small{display:block;font-size:22px;font-weight:600;color:#6E6D68}
+  .tile b{display:block;font-size:54px;font-weight:800;letter-spacing:-.03em;line-height:1.1}
+</style></head>
+<body>
+  <div class="card">
+    <div class="hero"><div class="who"><div class="name">Lina Khaled</div><div class="chips"><span class="chip">Beauty</span><span class="chip">Lifestyle</span></div></div></div>
+    <div class="row"><span class="svc">Sponsored reel</span><span class="price">AED 900</span></div>
+    <div class="row"><span class="svc">Venue visit</span><span class="price">AED 2,000</span></div>
+    <div class="btn">Add to cart</div>
+  </div>
+  <div class="tile"><small>Followers</small><b>48.2K</b></div>
+</body></html>

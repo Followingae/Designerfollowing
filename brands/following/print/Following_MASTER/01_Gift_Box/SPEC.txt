@@ -1,0 +1,6 @@
+Gift box: 400 x 300 x 120 mm outside (W x D x H). Rigid box, hinged lid, magnetic flap. 2 mm board.
+Page 1 is the lid: black, white wordmark and tagline, centred.
+Page 2 is the inside-lid liner: black on charcoal pattern. Trim to the inner lid, about 394 x 294 mm.
+Artwork is the flat face only: place it on your dieline.
+
+Print PDFs: 2.8 mm bleed, crop marks, fonts embedded. Material, finish and quantity are in Following_Print_Order.xlsx.

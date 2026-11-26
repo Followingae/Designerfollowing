@@ -1,0 +1,5 @@
+Booklet: A6 landscape, 148 x 105 mm, 56 pages plus cover, PUR bound on the short left edge.
+Cover: 301 x 105 mm flat (148 + 5 spine + 148). Confirm the spine width for your paper.
+Band: 326 x 28 mm, wrapped 67 mm below the top of the cover, glued at the 20 mm overlap.
+
+Print PDFs: 2.8 mm bleed, crop marks, fonts embedded. Material, finish and quantity are in Following_Print_Order.xlsx.
